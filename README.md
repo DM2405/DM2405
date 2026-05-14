@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Divya Mahajan
 
-<!--
-**DM2405/DM2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Civil Engineering Graduate  
+📊 Aspiring Data Analyst | Data Science Enthusiast  
+🤖 Interested in Machine Learning and AI  
+💻 Skills: Python, SQL, Power BI, Excel, ML, Git, Docker  
+🚀 Currently building ML and Data projects  
+🌱 Learning CI/CD, MLOps and Cloud  
 
-Here are some ideas to get you started:
+## Projects
+- ML Classification Project
+- Supplier Risk Analysis using Kraljic Matrix
+- Dashboard and Data Analytics Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+Email: divyamahajan709@gmail.com
